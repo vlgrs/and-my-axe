@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Welcome to And my Axies Scolarship
+title: Welcome to And my Axies Scolarship (AMA)
 hero_media: student.svg
 design:
   background:
