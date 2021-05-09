@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Welcome to And my Axies Scolarship
 hero_media: student.svg
 design:
   background:
