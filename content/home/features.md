@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Our program
+subtitle: ✨ Scolarship advantages ✨
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
-    name: Slides
+    name: Learn
     description: 
-  - icon: video
+  - icon: tractor
     icon_pack: fas
-    name: Video
+    name: Farm
     description: 
-  - icon: code
+  - icon: coins
     icon_pack: fas
-    name: Math & Code
+    name: Earn
     description: 
 ---
