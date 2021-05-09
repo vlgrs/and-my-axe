@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳恩達
+title: BIG
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- BIG
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: R Instructor
+role: Manager Associate
 
 # Organizations/Affiliations
 organizations:
