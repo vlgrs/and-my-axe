@@ -20,7 +20,7 @@ interests:
 - Make people transcend themselves within Axies Infinity World 
 - Crypto universe
 
-expriences:
+education:
   courses:
   - course: Hardcore gamer
     institution: on my own
