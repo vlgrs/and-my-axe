@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Welcome to And my Axies Scolarship (AMA)
+title: Welcome to Shintogo Scolarship (SHIN)
 hero_media: student.svg
 design:
   background:
