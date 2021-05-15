@@ -5,7 +5,7 @@ name = "Custom Theme"
 is_light = true
 
 # Primary
-primary = "rgb(184, 173, 210)"
+primary = "rgb(39, 38, 44)"
 
 # Links
 link = "rgb(184, 173, 210)"
