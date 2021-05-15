@@ -7,8 +7,8 @@ hero_media: student.svg
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
+    gradient_start: 'rgb(102, 87, 141)'
+    gradient_end: 'rgb(67, 69, 117)'
     text_color_light: false
 cta:
   url: course/
