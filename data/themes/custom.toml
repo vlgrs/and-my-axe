@@ -5,16 +5,16 @@ name = "Custom Theme"
 is_light = true
 
 # Primary
-primary = "#0072ff"
+primary = "rgb(184, 173, 210)"
 
 # Links
-link = "#3273dc"
+link = "rgb(184, 173, 210)"
 link_hover = "rgb(54, 54, 54)"
 
 # Menu
 menu_primary = "rgb(67, 69, 117)"
 menu_text = "#000"
-menu_text_active = "#0072ff"
+menu_text_active = "rgb(184, 173, 210)"
 menu_title = "#000"
 
 # Home sections
